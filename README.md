@@ -22,9 +22,7 @@ Each item contributes one of three things: a **concept (C)** contributes a claim
 |---|---|---|---|
 | [The Limitation Constraint](https://github.com/ernar77id/limitation-constraint) - why AI changes less than you think in Southeast Asian finance, and where it actually pays | C | SEA | Shipped |
 
-In progress: a name-matching prototype for sanctions and PEP screening tuned to Southeast Asian name realities - Indonesian mononyms, Malay patronymics, Vietnamese name order - with a labelled name corpus as a first-class output.
-
-This is an active series, not an archive. In the pipeline: model governance for small institutions, Shariah governance for AI, cross-border KYC, collection conduct as rules-as-data across five SEA jurisdictions plus the EU, and a concept on agent-to-agent settlement over push rails.
+This is an active series, not an archive - concepts, frameworks, and prototypes ship as they are ready.
 
 ## Contact
 
