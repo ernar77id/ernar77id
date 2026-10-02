@@ -1,6 +1,6 @@
 # Yernar
 
-I've worked inside a bank and run a lender. At Qazkom, then Kazakhstan's largest bank, we cut the consumer-loan decision from 7 days to 20 minutes by fixing the process before automating it. Later I built a regulated lender in Indonesia as CEO, financing SMEs, cooperatives and farmers. This profile is an open collection of concepts, frameworks and prototypes on what AI can and cannot change inside banks and finance companies.
+I've worked inside a bank and run a fintech. At Qazkom, then Kazakhstan's largest bank, we cut the consumer-loan decision from 7 days to 20 minutes by fixing the process before automating it. Later I built a regulated fintech in Indonesia as CEO, financing SMEs, cooperatives and farmers. This profile is an open collection of concepts, frameworks and prototypes on what AI can and cannot change inside banks and finance companies.
 
 ## The argument
 
