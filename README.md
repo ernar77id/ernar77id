@@ -6,9 +6,9 @@ I've worked inside a bank and run a fintech. At Qazkom, then Kazakhstan's larges
 
 Four claims organize everything here:
 
-**1. Limitation binds harder than information.** Half of regulation is a cost - reporting, KYC, disclosure - and costs yield to technology. The other half is a boundary - what you may charge, whom you may serve, how you may collect - and boundaries yield only to policy. AI collapses the first and does not move the second, so its value lands in fraud, language, and cost per small ticket, not in pricing credit risk.
+**1. Limitation binds harder than information.** One half of regulation is a burden - reporting, KYC, disclosure - and burdens yield to money and technology. The other half limits you - what you may charge, whom you may serve, how you may collect - and limits move only by policy decision. AI lightens the first and cannot move the second, so its value lands in fraud, language, and cost per small ticket, not in pricing credit risk.
 
-**2. Adoption is asymmetric.** SEA's young financial infrastructure can leapfrog straight into AI-native operations, the way it skipped cards and went straight to QR. Europe's inherited cores and heavier regulatory load make the same move slower and costlier. Where AI pays depends on what each region's history already built.
+**2. Adoption is asymmetric.** SEA's young financial infrastructure can move AI into its operations faster, much as it skipped cards and went straight to QR. Europe's inherited cores and heavier regulatory load make the same move slower and costlier. Where AI pays depends on what each region's history already built.
 
 **3. AI is often the wrong tool.** In a supervised institution the dominant lifetime cost of a model is governance, not compute - and a written rule carries no governance, audits line by line, and does not drift. Automate what is specifiable; reach for a model only where the pattern genuinely cannot be written down. Much of what is sold as AI transformation is a process problem wearing an AI costume - most prototypes here are deliberately deterministic for exactly this reason.
 
