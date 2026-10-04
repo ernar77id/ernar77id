@@ -21,7 +21,7 @@ Each item contributes one of three things: a **concept (C)** contributes a claim
 | Item | Type | Scope | Status |
 |---|---|---|---|
 | [The Limitation Constraint](https://github.com/ernar77id/limitation-constraint) - what AI can't change in regulated finance, and where it pays | C | SEA | Shipped |
-| [Indonesia Market Entry](https://github.com/ernar77id/indonesia-market-entry) - a reusable entry lens for regulated finance, applied in full: licences and capital, payments, data and identity, collection reality, labour, tax - as at July 2026, verified | F | Indonesia | Shipped |
+| [Indonesia Market Entry](https://github.com/ernar77id/indonesia-market-entry) - a reusable entry lens for regulated finance, applied in full: licences and capital, payments, data and identity, collection reality, labour, tax - updated October 2026 | F | Indonesia | Shipped |
 
 This is an active series, not an archive - concepts, frameworks, and prototypes ship as they are ready.
 
