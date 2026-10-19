@@ -22,6 +22,7 @@ Each item contributes one of three things: a **concept (C)** contributes a claim
 |---|---|---|---|
 | [The Limitation Constraint](https://github.com/ernar77id/limitation-constraint) - what AI can't change in regulated finance, and where it pays | C | SEA | Shipped |
 | [Indonesia Market Entry](https://github.com/ernar77id/indonesia-market-entry) - a reusable entry lens for regulated finance, applied in full: licences and capital, payments, data and identity, collection reality, labour, tax - updated October 2026 | F | Indonesia | Shipped |
+| [Lend Against the Cash, Not the Copyright](https://github.com/ernar77id/ip-financing-indonesia) - IP-backed lending in Indonesia: why IP alone does not carry a loan, break-even rates by lender type, and the receivables, insurance and buyer stack | C | Indonesia | Shipped |
 
 This is an active series, not an archive - concepts, frameworks, and prototypes ship as they are ready.
 
